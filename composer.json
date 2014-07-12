@@ -1,0 +1,19 @@
+{
+    "name": "xjtuwangke/php-uploader",
+    "description": "uploadify for php frameworks",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangke",
+            "email": "wangke85@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-0" : {
+            "Uploader": "src/"
+        }
+    },
+    "require": {
+        "php" : ">=5.4"
+    }
+}
